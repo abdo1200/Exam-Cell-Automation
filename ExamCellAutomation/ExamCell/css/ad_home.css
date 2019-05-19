@@ -1,0 +1,55 @@
+*{
+ margin: 0;
+}
+.navbar{
+  height:100px;
+  width: 100%;
+  background-color: black ; 
+}
+
+
+.logo{
+  float: left;
+  color: white;
+  margin-top: 35px;
+  margin-left: 70px;
+}
+.option{
+  float: right;
+}
+.option ul{
+  margin-top: 40px;
+  list-style: none;
+  float: right;
+}
+.option li{
+  float: left;
+}
+.option li a{
+  margin-right: 40px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+.jops{
+  margin-left: 160px;
+}
+
+.jops button{
+    height: 100px;
+    width: 200px;
+    background-color: darkcyan;
+    border-radius: 60px;
+    border: 4px solid darkcyan;
+    margin-top: 200px;
+    margin-left:120px;
+}
+.jops a{
+  font-size: 25px;
+  text-decoration: none;
+  color: white;
+}
+
+
+
+

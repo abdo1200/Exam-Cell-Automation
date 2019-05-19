@@ -1,0 +1,63 @@
+*{
+ margin: 0;
+ transition: .5s;
+ 
+}
+.navbar{
+  height:100px;
+  width: 100%;
+  background-color: black; 
+}
+
+
+.logo{
+  float: left;
+  color: white;
+  margin-top: 35px;
+  margin-left: 70px;
+}
+.option{
+  float: right;
+}
+.option ul{
+  margin-top: 40px;
+  list-style: none;
+  float: right;
+}
+.option li{
+  float: left;
+}
+.option li a{
+  margin-right: 40px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  }
+
+
+
+
+.login{
+  margin-top: 50px;
+}
+
+.f2{
+  height: 270px;
+  width: 400px;
+  background-color: 
+  }
+  .txt{
+    margin-top: 20px;
+  }
+  .ut,.pt{
+  	height: 30px;
+  	width: 200px;
+  	border-radius: 5px;
+  }
+  .lb{
+  	height: 50px;
+  	width: 120px;
+  	color: white;
+  	background-color: darkcyan;
+  	border-radius: 10px;
+  }
